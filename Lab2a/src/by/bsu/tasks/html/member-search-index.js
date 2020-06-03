@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"by.bsu.tasks","c":"Main","l":"isPalindrome(String)","url":"isPalindrome(java.lang.String)"},{"p":"by.bsu.tasks","c":"Main","l":"Main()","url":"%3Cinit%3E()"},{"p":"by.bsu.tasks","c":"Main","l":"main(String[])","url":"main(java.lang.String[])"}]
