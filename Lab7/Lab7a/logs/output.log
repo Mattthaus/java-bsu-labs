@@ -1,0 +1,13 @@
+11:35:39.825 [main] INFO  TextReader - Got absolute pathC:\Users\User\Dropbox\University\Java\Lab7a\src\main\resources\lab_text.txt
+10:06:19.069 [main] INFO  by.mathew.labs.reader.TextReader - Got absolute pathC:\Users\User\Downloads\Lab7a\src\main\resources\lab_text.txt
+10:06:34.891 [main] INFO  by.mathew.labs.reader.TextReader - Got absolute pathC:\Users\User\Downloads\Lab7a\src\main\resources\lab_text.txt
+10:06:58.431 [main] INFO  by.mathew.labs.reader.TextReader - Got absolute pathC:\Users\User\Downloads\Lab7a\src\main\resources\lab_text.txt
+10:07:25.517 [main] INFO  by.mathew.labs.reader.TextReader - Got absolute pathC:\Users\User\Downloads\Lab7a\src\main\resources\lab_text.txt
+10:08:48.740 [main] INFO  by.mathew.labs.reader.TextReader - Got absolute pathC:\Users\User\Downloads\Lab7a\src\main\resources\lab_text.txt
+10:08:56.678 [main] INFO  by.mathew.labs.reader.TextReader - Got absolute pathC:\Users\User\Downloads\Lab7a\src\main\resources\lab_text.txt
+10:09:21.189 [main] INFO  by.mathew.labs.reader.TextReader - Got absolute pathC:\Users\User\Downloads\Lab7a\src\main\resources\lab_text.txt
+10:11:14.673 [main] INFO  by.mathew.labs.reader.TextReader - Got absolute pathC:\Users\User\Downloads\Lab7a\src\main\resources\lab_text.txt
+10:11:35.989 [main] INFO  by.mathew.labs.reader.TextReader - Got absolute pathC:\Users\User\Downloads\Lab7a\src\main\resources\lab_text.txt
+16:36:38.864 [main] INFO  by.mathew.labs.reader.TextReader - Got absolute path/Users/mathew/Downloads/Lab7/Lab7a/src/main/resources/lab_text.txt
+11:44:22.728 [main] INFO  by.mathew.labs.reader.TextReader - Got absolute path/Users/mathew/Downloads/Lab7/Lab7a/src/main/resources/lab_text.txt
+18:47:21.734 [main] INFO  by.mathew.labs.reader.TextReader - Got absolute path/Users/mathew/Downloads/Lab7/Lab7a/src/main/resources/lab_text.txt
